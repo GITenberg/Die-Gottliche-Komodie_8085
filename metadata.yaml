@@ -1,0 +1,26 @@
+_repo: Die-Gottliche-Komodie_8085
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8085'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry -- To 1400'
+- !lcc 'PQ'
+tableOfContents: "Die Hölle\r\nDas Fegefeuer\r\nDas Paradies"
+title: Die Göttliche Komödie
+url: http://www.gutenberg.org/ebooks/8085
